@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "BORSHON CHAT BOT",
-    "PREFIX": "/",
+    "PREFIX": "^",
     "ADMINBOT": [
         "raw.borshon",
         "raw.borshon",
