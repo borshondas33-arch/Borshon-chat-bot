@@ -16,8 +16,8 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Ornob Bot",
-    "PREFIX": "/",
+    "BOTNAME": "BORSHON CHAT BOT",
+    "PREFIX": "^",
     "ADMINBOT": [
         "100088098765556",
         "61577392586478",
